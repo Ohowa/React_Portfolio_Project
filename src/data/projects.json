@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-Commerce Platform",
+      "description": "A full-stack e-commerce application built with React and Node.js, featuring user authentication, payment processing, shopping cart functionality, and admin dashboard for inventory management.",
+      "image": "https://illustrations.popsy.co/amber/web-design.svg",
+      "link": "https://github.com/yourusername/ecommerce-app"
+    },
+    {
+      "id": 2,
+      "name": "Weather Dashboard",
+      "description": "A responsive weather application that provides real-time weather data with beautiful visualizations, 7-day forecasts, and location-based weather tracking for multiple cities worldwide.",
+      "image": "https://illustrations.popsy.co/amber/weather-app.svg",
+      "link": "https://github.com/yourusername/weather-dashboard"
+    },
+    {
+      "id": 3,
+      "name": "Task Management App",
+      "description": "A collaborative task management tool with drag-and-drop functionality, real-time updates, team collaboration features, deadline tracking, and progress visualization charts.",
+      "image": "https://illustrations.popsy.co/amber/task-management.svg",
+      "link": "https://github.com/yourusername/task-manager"
+    },
+    {
+      "id": 4,
+      "name": "Social Media Dashboard",
+      "description": "An analytics dashboard for social media management with post scheduling, engagement tracking, follower analytics, and multi-platform integration for content creators.",
+      "image": "https://illustrations.popsy.co/amber/social-media.svg",
+      "link": "https://github.com/yourusername/social-dashboard"
+    },
+    {
+      "id": 5,
+      "name": "Recipe Finder App",
+      "description": "A recipe discovery application with ingredient-based search, nutritional information, cooking timers, meal planning features, and personal recipe collection management.",
+      "image": "https://illustrations.popsy.co/amber/cooking.svg",
+      "link": "https://github.com/yourusername/recipe-finder"
+    },
+    {
+      "id": 6,
+      "name": "Portfolio Website",
+      "description": "A responsive personal portfolio website built with React, featuring smooth animations, dark/light mode toggle, contact forms, and optimized performance for showcasing projects.",
+      "image": "https://illustrations.popsy.co/amber/web-development.svg",
+      "link": "https://github.com/yourusername/portfolio-website"
+    }
+  ]
+}
